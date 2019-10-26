@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/superTes/testify#readme",
   "devDependencies": {
-    "awb": "^0.2.4"
+    "awb": "^0.2.4",
+    "chai": "^4.2.0",
+    "mocha": "^6.2.0",
+    "process-rerun": "0.0.13"
   }
 }
